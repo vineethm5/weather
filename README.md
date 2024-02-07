@@ -1,0 +1,1 @@
+# This app will display Weather details of selected cities
